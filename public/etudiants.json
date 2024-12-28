@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "nom": "Dupont",
+    "prenom": "Alice",
+    "age": 20,
+    "filiere": "Informatique"
+  },
+  {
+    "id": 2,
+    "nom": "Martin",
+    "prenom": "Benoît",
+    "age": 21,
+    "filiere": "Informatique"
+  },
+  {
+    "id": 3,
+    "nom": "Leroy",
+    "prenom": "Claire",
+    "age": 22,
+    "filiere": "Informatique"
+  },
+  {
+    "id": 4,
+    "nom": "Moreau",
+    "prenom": "David",
+    "age": 23,
+    "filiere": "Informatique"
+  },
+  {
+    "id": 5,
+    "nom": "Garnier",
+    "prenom": "Émilie",
+    "age": 20,
+    "filiere": "Informatique"
+  },
+  {
+    "id": 6,
+    "nom": "Bernard",
+    "prenom": "François",
+    "age": 21,
+    "filiere": "Biologie"
+  },
+  {
+    "id": 7,
+    "nom": "Lemoine",
+    "prenom": "Gabrielle",
+    "age": 22,
+    "filiere": "Biologie"
+  },
+  {
+    "id": 8,
+    "nom": "Rousseau",
+    "prenom": "Henri",
+    "age": 23,
+    "filiere": "Biologie"
+  },
+  {
+    "id": 9,
+    "nom": "Collet",
+    "prenom": "Isabelle",
+    "age": 20,
+    "filiere": "Biologie"
+  },
+  {
+    "id": 10,
+    "nom": "Pichon",
+    "prenom": "Julien",
+    "age": 21,
+    "filiere": "Biologie"
+  },
+  {
+    "id": 11,
+    "nom": "Lefevre",
+    "prenom": "Karine",
+    "age": 22,
+    "filiere": "Droit"
+  },
+  {
+    "id": 12,
+    "nom": "Noel",
+    "prenom": "Louis",
+    "age": 23,
+    "filiere": "Droit"
+  },
+  {
+    "id": 13,
+    "nom": "Boucher",
+    "prenom": "Marie",
+    "age": 20,
+    "filiere": "Droit"
+  },
+  {
+    "id": 14,
+    "nom": "Giraud",
+    "prenom": "Nicolas",
+    "age": 21,
+    "filiere": "Droit"
+  },
+  {
+    "id": 15,
+    "nom": "Simon",
+    "prenom": "Olivia",
+    "age": 22,
+    "filiere": "Droit"
+  }
+]
